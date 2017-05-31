@@ -1,2 +1,0 @@
-# canais
-Lista de canais
